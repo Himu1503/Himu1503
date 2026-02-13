@@ -48,6 +48,7 @@ Passionate about backend performance, system design, and building reliable syste
 - Observability-first mindset
 - Secure coding practices
 
+---
 
 ### 📊 Monitoring & Testing
 - Sentry
