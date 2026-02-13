@@ -21,7 +21,6 @@ Passionate about backend performance, system design, and building reliable syste
 ### 💻 Backend
 - Python (FastAPI, Django)
 - Node.js
-- Spring Framework
 - REST APIs
 - GraphQL
 
